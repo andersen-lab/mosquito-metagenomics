@@ -5,15 +5,16 @@ The purpose of this protocol is to generate metatranscriptomic libraries from po
 
 #### Procedure  
 1. Clean All surfaces and pipettes thoroughly with RNase AWAY (ThermoFisher) or similar.
-2. Prepare a 50 ul DNase reaction by mixing the following:
+2. Prepare a 50 ul DNase reaction by mixing the following:  
+
 |   Component   |   1x (ul) |   8 + 10%   |
-| ---   |   --- |   --- |   --- |
+| ---   |   --- |   --- |
 |   TURBO DNase buffer  |   5   |   44  |
 |   TURBO DNase |   1   |   4.4 |
 |   RNA |   1-44 ul |   -   |
 |   Water   | up to 50 ul | -   |
 
-3. Incubate at 37C for 30 minutes.
+3. Incubate at 37C for 30 minutes.  
     a. During incubation, remove RNAClean XP beads from 4C and allow to warm to room temperature. Throughly mix the RNAClean XP beads before use.
 4. Remove tubes from the thermal cycler and add 1.4 volumes of RNAClean XP beads  (70 ul) to each sample, mixing well by pipetting 10 times. 
 5. Incubate at room temperature for 5 minutes.
